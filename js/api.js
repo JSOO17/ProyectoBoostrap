@@ -1,4 +1,4 @@
-
+console.log('Aprendí git');
 
 document.addEventListener('DOMContentLoaded', init);
 function init(){
